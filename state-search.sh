@@ -1,7 +1,7 @@
 #!/bin/bash
 set -euo pipefail
 
-STATESFILE="state-initials.txt"
+STATESFILE="state-list.txt"
 REGISTRATIONS="registration-dates.txt"
 DATE=$(date)
 
