@@ -14,7 +14,7 @@
    Name Server: NS1.LIQUIDWEB.COM
    DNSSEC: unsigned
    URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of whois database: 2020-04-20T20:27:41Z <<<
+>>> Last update of whois database: 2020-04-20T22:25:47Z <<<
 
 For more information on Whois status codes, please visit https://icann.org/epp
 
@@ -62,8 +62,8 @@ Creation Date: 2020-04-17T12:30:02.00Z
 Registrar Registration Expiration Date: 2021-04-17T12:30:02.00Z
 Registrar: ENOM, INC.
 Registrar IANA ID: 48
-Domain Status: addPeriod https://www.icann.org/epp#addPeriod
 Domain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+Domain Status: addPeriod https://www.icann.org/epp#addPeriod
 Registrant Name: Whois Agent (895310971)
 Registrant Organization: Whois Privacy Protection Service, Inc.
 Registrant Street: PO Box 639
@@ -106,7 +106,7 @@ DNSSEC: unsigned
 Registrar Abuse Contact Email: ABUSE@ENOM.COM
 Registrar Abuse Contact Phone: +1.4259744689
 URL of the ICANN WHOIS Data Problem Reporting System: HTTP://WDPRS.INTERNIC.NET/
->>> Last update of WHOIS database: 2020-04-20T20:28:00.00Z <<<
+>>> Last update of WHOIS database: 2020-04-20T22:25:59.00Z <<<
 
 For more information on Whois status codes, please visit https://icann.org/epp
 

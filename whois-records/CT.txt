@@ -12,7 +12,7 @@
    Domain Status: redemptionPeriod https://icann.org/epp#redemptionPeriod
    DNSSEC: unsigned
    URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of whois database: 2020-04-20T20:26:10Z <<<
+>>> Last update of whois database: 2020-04-20T22:25:01Z <<<
 
 For more information on Whois status codes, please visit https://icann.org/epp
 

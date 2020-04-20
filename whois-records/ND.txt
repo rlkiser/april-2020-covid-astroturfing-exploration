@@ -17,7 +17,7 @@
    Name Server: NS26.DOMAINCONTROL.COM
    DNSSEC: unsigned
    URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of whois database: 2020-04-20T20:27:11Z <<<
+>>> Last update of whois database: 2020-04-20T22:25:31Z <<<
 
 For more information on Whois status codes, please visit https://icann.org/epp
 
@@ -115,7 +115,7 @@ Name Server: NS25.DOMAINCONTROL.COM
 Name Server: NS26.DOMAINCONTROL.COM
 DNSSEC: unsigned
 URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
->>> Last update of WHOIS database: 2020-04-20T20:00:00Z <<<
+>>> Last update of WHOIS database: 2020-04-20T22:00:00Z <<<
 
 For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en
 

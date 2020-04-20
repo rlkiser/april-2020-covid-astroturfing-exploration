@@ -17,7 +17,7 @@
    DNSSEC: signedDelegation
    DNSSEC DS Data: 64811 8 2 995ECD71C0CA543974136C2C0BC74764D29C2B9D9183729FDA2EA0B6C314C166
    URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of whois database: 2020-04-20T20:27:11Z <<<
+>>> Last update of whois database: 2020-04-20T22:25:16Z <<<
 
 For more information on Whois status codes, please visit https://icann.org/epp
 
@@ -111,7 +111,7 @@ Name Server: NS-CLOUD-A3.GOOGLEDOMAINS.COM
 Name Server: NS-CLOUD-A4.GOOGLEDOMAINS.COM
 DNSSEC: signedDelegation
 URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
->>> Last update of WHOIS database: 2020-04-20T20:26:27Z <<<
+>>> Last update of WHOIS database: 2020-04-20T22:24:34Z <<<
 
 For more information on Whois status codes, please visit
 https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en
